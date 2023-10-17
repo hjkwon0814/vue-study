@@ -28,4 +28,4 @@ export default {
         color: #e20303;
         display: block;
     }
-</style<
+</style>
